@@ -16,3 +16,5 @@ use pip install {name of modules given below}
 your location of zoom app at line 17
 x and y coordinates of line 20 [coordinates on your screen where join button located at the application]
 chane your time and meeting id and passcode
+
+extract zip file and see your x and coordinates of your join button
