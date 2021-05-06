@@ -5,13 +5,13 @@ Automatic Zoom bot for scheduled class
 
 use pip install {name of modules given below}
 
--keyboard
--time 
--subprocess
--pyautogui
--pandas 
--datetime
--pillow
+1. keyboard
+2. time 
+3. subprocess
+4. pyautogui
+5. pandas 
+6. datetime
+7. pillow
 
 ##changes##
 your location of zoom app at line 17
