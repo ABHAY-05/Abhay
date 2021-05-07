@@ -25,8 +25,8 @@ Modules used:
 
 ##steps##
 
-1. Change your location of zoom app at line 17
-2. Change x and y coordinates at line 20 [coordinates on your screen where join button located at the zoom application]
+1. Change your location of zoom app at line 29
+2. Change x and y coordinates at line 32 [coordinates on your screen where join button located at the zoom application]
 3. Extract MousePosition32bit.zip file and run the apllication to see your x and y coordinates of your join button and then enter on line 20
 4. open "meetingschedule.csv" enter the schedule time in the editor in correct columns in the correct format
 
