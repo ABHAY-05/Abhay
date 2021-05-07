@@ -42,6 +42,3 @@ run main.py
 7. do not let the computer sleep when there is long intervals between lectures
 8. edit run.bat file and add path of your python.exe and your .py file
 
-
-***you have to add your folder to the workspace***
-
