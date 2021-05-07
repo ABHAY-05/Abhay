@@ -33,7 +33,7 @@ Modules used:
 
 Time :hh:mm [24 hrs format] Meeting ID : 123456123 (string) Meeting Password : 1234 (string)
 
-6. make sure to close all windows and free up the desktop (my program runs on Image Recognition and automatic movement of your mouse )
+5. make sure to close all windows and free up the desktop (my program runs on Image Recognition and automatic movement of your mouse )
 
 run main.py
 
