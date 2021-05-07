@@ -3,6 +3,19 @@ import pandas as pd
 from datetime import datetime
 import pyautogui
 
+hashes = "#" * 95
+
+print('\n\n', hashes)
+
+print('Welcome to Automatic Zoom Bot, lazy people!! ^_^')
+print(">>If you've reached here I'm assuming you've read the README.md and have the settings configured")
+print(">>Please check all the configurations before proceeding as it may cause this program to crash otherwise")
+print(">>Please keep this program running in the background at all times (if you want to run it everyday)")
+print("Requirements : ( python version > 3.0 ) and ( all packages installed )")
+print('You can exit this program using ( Ctrl+c ) at any time')
+
+print('\n', hashes)
+
 
 df = pd.read_csv('meetingschedule.csv')
 df_new = pd.DataFrame()
