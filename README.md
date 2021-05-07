@@ -40,6 +40,7 @@ run main.py
 6. keep an eye out in case of errors and failures I am not responsible for any troubles caused to you if the program does not function as intended, or if it is misused, please make sure to test it before executing
 
 7. do not let the computer sleep when there is long intervals between lectures
+8. edit run.bat file and add path of your python.exe and your .py file
 
 
 ***you have to add your folder to the workspace***
