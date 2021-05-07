@@ -41,4 +41,6 @@ run main.py
 
 7. do not let the computer sleep when there is long intervals between lectures
 8. edit run.bat file and add path of your python.exe and your .py file
+9. if you don't want to do this type of coding stuff then you can use zoom bot.rar file,
+   it is direct exe file of coding but you need to edit schedule.isc file according to your class schedule.
 
