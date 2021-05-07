@@ -2,7 +2,7 @@
 
 Python program to automatically join the online zoom classes based on the given input in the "meetingschedule.csv".
 
-##Requirements##
+##Modules##
 
 use pip install {name of modules given below}
 
@@ -15,13 +15,15 @@ Modules used:
 6. datetime
 7. pillow
 
+##Requirements##
 
 1. Zoom app must be installed in your system.
 2. You must be logged in to your Zoom account.
 3. Meeting time for the day along with Meeting ID and passcode must be entered manually into the "meetingschedule.csv"
-4. Python - Download and install from https://www.python.org/downloads/
+4. check your settings of your zoom app(like join audio on joing classes)
+5. Python - Download and install from https://www.python.org/downloads/
 
-##changes##
+##steps##
 
 1. Change your location of zoom app at line 17
 2. Change x and y coordinates at line 20 [coordinates on your screen where join button located at the zoom application]
