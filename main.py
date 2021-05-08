@@ -49,7 +49,7 @@ while(True):
         time.sleep(7)
 
         
-        keyboard.write(str(int(df_new.iloc[0,2])))
+        keyboard.write(str(df_new.iloc[0,2]))
         time.sleep(5)
 
         
