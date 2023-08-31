@@ -1,9 +1,9 @@
 # Automatic Zoom Bot
 
-**Overview:**
+## **Overview:**
 This Python program automatically joins online Zoom classes based on input from the "meetingschedule.csv" file.
 
-**Requirements:**
+## **Requirements:**
 
 Before using this program, ensure the following:
 
@@ -13,7 +13,7 @@ Before using this program, ensure the following:
 4. Check your Zoom app settings (e.g., join audio on joining classes).
 5. Python - Download and install from [python.org](https://www.python.org/downloads/).
 
-**Usage:**
+## **Usage:**
 
 Follow these steps to use the program:
 
@@ -33,7 +33,7 @@ Follow these steps to use the program:
 9. Edit the `run.bat` file and add the path to your `python.exe` and your `.py` file.
 10. If you prefer not to write code, you can use the `zoombot.rar` file, which contains a direct executable version of the program. However, you'll need to edit the `schedule.csv` file according to your class schedule.
 
-**Modules used:**
+## **Modules used:**
 1. keyboard
 2. time
 3. subprocess
@@ -42,7 +42,7 @@ Follow these steps to use the program:
 6. datetime
 7. pillow
    
-To install the required modules, use the following commands:
+### To install the required modules, use the following commands:
 
 ```bash
 pip install keyboard time subprocess pyautogui pandas datetime pillow
