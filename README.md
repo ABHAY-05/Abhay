@@ -22,9 +22,9 @@ Follow these steps to use the program:
 3. Extract the "MousePosition32bit.zip" file and run the application to determine the x and y coordinates of your "Join" button. Enter these coordinates on line 20.
 4. Open "meetingschedule.csv" and enter the scheduled time in the correct columns in the following format:
 
-   Time: hh:mm [24-hour format]
-   Meeting ID: 123456123 (string)
-   Meeting Password: 1234 (string)
+   * Time: hh:mm [24-hour format]
+   * Meeting ID: 123456123 (string)
+   * Meeting Password: 1234 (string)
 
 5. Ensure all windows are closed and the desktop is clear, as this program relies on image recognition and automatic mouse movement.
 6. Run `main.py`.
