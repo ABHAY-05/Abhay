@@ -4,7 +4,7 @@
 - [Overview](#Overview)
 - [Requirements](#Requirements)
 - [Usage](#Usage)
-- [Modules Used](#Modules-used)
+- [Modules used](#Modules-used)
 
 ## **Overview:**
 This Python program automatically joins online Zoom classes based on input from the "meetingschedule.csv" file.
